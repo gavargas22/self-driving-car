@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\gavargas\\Developer\\self-driving-car\\Driver\\pygta5-car-0.001-alexnetv2-10-epochs.model"
+all_model_checkpoint_paths: "C:\\Users\\gavargas\\Developer\\self-driving-car\\Driver\\pygta5-car-0.001-alexnetv2-10-epochs.model"
